@@ -35,7 +35,6 @@ Cada proyecto aquí representa un avance más en mi camino.
 
 ---
 
-## Si llegaste hasta aquí
 ¡Gracias por tomarte el tiempo de ver mi trabajo!  
 Estoy abierta a consejos. Puedes contactarme para cualquier sugerencia o guía.
 
